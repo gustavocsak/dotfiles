@@ -1,0 +1,10 @@
+# Vim swap files
+*.swp
+*.swo
+
+# Mac OS files
+.DS_Store
+
+# Linux thumbnail cache
+.cache/
+
