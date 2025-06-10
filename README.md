@@ -10,8 +10,15 @@ dotfiles managed with gnu stow.
 
 2. Make sure you have stow installed
 
-3. Link configs using stow
+3. Link configs using stow and the --dotfiles flag
    ```bash
-   stow nvim
-   stow kitty
+   stow --dotfiles nvim
+   stow --dotfiles kitty
    ```
+
+For removing a symbolic link:
+   ```bash
+   stow -D nvim
+   stow -D kitty
+   ```
+
