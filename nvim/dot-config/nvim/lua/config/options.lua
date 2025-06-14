@@ -26,4 +26,10 @@ vim.opt.isfname:append("@-@")
 vim.opt.updatetime = 50
 
 
-
+vim.opt.guicursor = {
+  "n-v-c:block",         -- Normal, Visual, Command: block cursor
+  "i-ci-ve:ver25",       -- Insert, Command Insert, Visual Ex: vertical bar
+  "r-cr:hor20",          -- Replace modes: horizontal bar
+  "o:hor50",             -- Operator pending: horizontal bar
+  "a:blinkon100",        -- All modes: blink settings
+}
