@@ -1,8 +1,7 @@
--- lua/plugins/rose-pine.lua
 return {
-	"rose-pine/neovim",
-	name = "rose-pine",
+	"nyoom-engineering/oxocarbon.nvim",
+	name = "oxocarbon",
 	config = function()
-		vim.cmd("colorscheme rose-pine")
+		vim.cmd("colorscheme oxocarbon")
 	end
 }

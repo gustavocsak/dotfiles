@@ -11,10 +11,11 @@
   "nvim-cmp": { "branch": "main", "commit": "f17d9b4394027ff4442b298398dfcaab97e40c4f" },
   "nvim-lspconfig": { "branch": "master", "commit": "87c7c83ce62971e0bdb29bb32b8ad2b19c8f95d0" },
   "nvim-treesitter": { "branch": "master", "commit": "20e10ca6914f65cf1410232433fb58de70ab6b39" },
+  "oxocarbon": { "branch": "main", "commit": "1dc7b7ea9df60edd9547b667fd1f789ce9f028fb" },
   "playground": { "branch": "master", "commit": "ba48c6a62a280eefb7c85725b0915e021a1a0749" },
   "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" },
-  "rose-pine": { "branch": "main", "commit": "6b9840790cc7acdfadde07f308d34b62dd9cc675" },
   "telescope.nvim": { "branch": "master", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
+  "ultimate-autopair.nvim": { "branch": "v0.6", "commit": "b24b97c538b71b6de0ce9d84e47df27b6ecafd76" },
   "undotree": { "branch": "master", "commit": "b951b87b46c34356d44aa71886aecf9dd7f5788a" },
   "vim-fugitive": { "branch": "master", "commit": "d4877e54cef67f5af4f950935b1ade19ed6b7370" },
   "vim-vsnip": { "branch": "master", "commit": "0a4b8419e44f47c57eec4c90df17567ad4b1b36e" }
