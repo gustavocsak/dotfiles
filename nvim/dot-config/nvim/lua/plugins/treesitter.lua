@@ -1,4 +1,9 @@
 return {
-  { 'nvim-treesitter/nvim-treesitter',  build = ':TSUpdate' },
-  { 'nvim-treesitter/playground' } 
+  "nvim-treesitter/nvim-treesitter",
+  lazy = false,
+  opts = {
+    ensure_installed = {
+      "go",
+    },
+  },
 }
